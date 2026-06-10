@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Topic Selection and Emotional Tone in  Ideologically
+  Different Korean  Newspapers on Twitter
+message: Created for the Digital Korea course on 10 june 2026
+type: dataset
+authors:
+  - family-names: van Driel
+    given-names: Nikki Christiane Persephone
+    email: nikki.vd04@gmail.com
+license: MIT
